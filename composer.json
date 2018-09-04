@@ -9,6 +9,7 @@
             "email": "nguyenkhanhtam83@gmail.com"
         }
     ],
+	"minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0"
     },
