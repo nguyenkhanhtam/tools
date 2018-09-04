@@ -2,7 +2,7 @@
     "name": "nktam/tool",
     "description": "the first composer package",
     "type": "php",
-    "license": "text",
+    "license": "MIT",
     "authors": [
         {
             "name": "TamNguyen",
